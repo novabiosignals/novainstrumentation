@@ -1,0 +1,24 @@
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+.idea
+
+
+# Other files and folders
+.settings/
+local/
+*.pyc
+*.pyo
+.DS_Store
+<<<<<<< HEAD
+=======
+
+>>>>>>> .gitignore adfusted
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+
+.DS_Store
+
+code/.DS_Store
