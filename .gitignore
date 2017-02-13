@@ -20,5 +20,6 @@ local/
 # information for Eclipse / Flash Builder.
 
 .DS_Store
+.vscode
 
 code/.DS_Store
